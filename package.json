@@ -1,0 +1,19 @@
+{
+  "name": "sia-nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch tests/"
+  },
+  "keywords": [],
+  "author": "Ahmad Zuhdi <ahmad.zuhdi.y@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^80.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0"
+  }
+}
