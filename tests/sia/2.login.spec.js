@@ -1,6 +1,6 @@
 require('dotenv').config();
 const openTest = require('./1.open.spec');
-const constants = require('./../constants');
+const constants = require('../../constants');
 const moment = require('moment');
 
 module.exports = {

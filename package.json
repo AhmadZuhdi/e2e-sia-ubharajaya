@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nightwatch tests/"
+    "test-sia": "nightwatch tests/sia",
+    "test-elearning": "nightwatch tests/elearning"
   },
   "keywords": [],
   "author": "Ahmad Zuhdi <ahmad.zuhdi.y@gmail.com>",

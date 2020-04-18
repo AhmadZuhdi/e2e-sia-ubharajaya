@@ -1,6 +1,6 @@
 require('dotenv').config();
 const loginTest = require('./2.login.spec');
-const constants = require('./../constants');
+const constants = require('../../constants');
 const moment = require('moment');
 
 module.exports = {
